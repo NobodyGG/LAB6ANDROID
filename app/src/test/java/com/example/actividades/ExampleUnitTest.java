@@ -1,4 +1,4 @@
-package com.example.dados;
+package com.example.actividades;
 
 import org.junit.Test;
 

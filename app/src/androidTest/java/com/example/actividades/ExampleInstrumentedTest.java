@@ -1,4 +1,4 @@
-package com.example.dados;
+package com.example.actividades;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

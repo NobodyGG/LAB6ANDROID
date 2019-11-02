@@ -5,4 +5,8 @@
     <string name="quitar">Quitar</string>
     <string name="rodar">Rodar</string>
     <string name="textview">TextView</string>
+    <string name="title_activity_actividad1">Actividad1</string>
+    <string name="title_activity_actividad2">Actividad2</string>
+    <string name="title_activity_actividad3">Actividad3</string>
+    <string name="title_activity_actividad4">Actividad4</string>
 </resources>
